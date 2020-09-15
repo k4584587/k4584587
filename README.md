@@ -2,7 +2,7 @@
 
 <div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fk4584587%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fk4584587&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
@@ -17,6 +17,8 @@
 [![python](http://img.shields.io/badge/python-white?style=flat&logo=python)](#)
 [![Docker](http://img.shields.io/badge/docker-white?style=flat&logo=docker)](#)
 [![javascript](http://img.shields.io/badge/javascript-white?style=flat&logo=javascript)](#)
+
+	
 
 ## Contacts
 Email : admin@needon.kr
